@@ -1,3 +1,7 @@
+#this submit contains two functions 
+#1-makeCacheMatrix
+#2-cacheSolve 
+#the following code lines will describe each function
 
 # this function works like a class, it creates a list
 # that contains 4 member functions: set, get, setInv
